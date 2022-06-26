@@ -1,0 +1,19 @@
+GRANT USAGE ON *.* TO `databse_2031119`@`localhost` IDENTIFIED BY PASSWORD '*BDC9ED6E8BB4C3FC0998DEF51DBC6003E511202F'
+GRANT SELECT, SHOW VIEW ON `database_2031119`.`orderscustomeralldetails` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectonerowfromorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`deletecustomer` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectonerowfromproducts` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectonerowfromcustomers` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`insertintoproducts` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`updatecustomers` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`updateorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`updateproducts` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`insertintocustomers` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`insertintoorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectalldatafromcustomers` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectalldatafromorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`deleteproducts` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`login` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`searchtheorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`deleteorders` TO `databse_2031119`@`localhost`
+GRANT EXECUTE ON PROCEDURE `database_2031119`.`selectalldatafromproducts` TO `databse_2031119`@`localhost`

@@ -1,0 +1,110 @@
+.logo_Picture{
+    height : 50%;
+    opacity: 1;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.advertising{
+    height : 200px;
+    width: 200px;
+    float: right;
+    margin-right: 2%;
+    margin-left: 1%;
+}
+
+.advertising1{
+    height : 100%;
+    width: 100%;
+    border: 5px solid red;
+}
+
+.grayBackGround{
+    background : graytext;
+}
+
+.boldText{
+    font-weight: bold;
+    font-size: large;
+}
+
+.redcolor{
+    color: red;
+}
+
+.fullwidth{
+    width: 100%;
+    radius: 10px;
+}
+
+.bisquebackground{
+    background: bisque;
+}
+
+.cadetbluebackground{
+    background: cadetblue;
+}
+
+.nav {
+  width: 100%;
+  height: 15%;
+  font-size: larger;
+  background-color: aliceblue;
+  color : white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.tablewidth{
+   width:100%;
+   table-layout: fixed;
+   overflow-wrap: break-word;
+   border: solid;
+}
+.addButton{
+    width: 10%;
+    height: 5%;
+    text-align: center;
+    background-color: blue;
+    color: white;
+    radius: 5px;
+}
+
+table,th,td{
+    border: 1px black solid;
+    text-align: center;
+    border-radius: 10px;
+}
+table{
+    width: 100%;
+}
+.white{
+    background-color: white;
+}
+
+.green{
+    color: green;
+}
+.whencomandisprint{
+    height : 50%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    opacity: 0.3;
+}
+
+.greenColor{
+    color: green;
+}
+.orangeColor{
+    color: orange;
+}
